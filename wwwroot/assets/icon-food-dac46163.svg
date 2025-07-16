@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <clipPath id="aixrvmrusa">
+            <path data-name="Rectangle 7154" style="fill:#2f2f2f" d="M0 0h18v18H0z"/>
+        </clipPath>
+    </defs>
+    <path data-name="Rectangle 7153" style="fill:none" d="M0 0h20v20H0z"/>
+    <g data-name="Group 882">
+        <g data-name="Group 881" style="clip-path:url(#aixrvmrusa)" transform="translate(1 1)">
+            <path data-name="Path 43185" d="M8.3 89.681c-.483-.523-1.075-1.134-1.266-1.292l-.053-.006c-3.335 2.86-7.87 7.093-6.825 8.139s5.287-3.5 8.148-6.836" transform="translate(0 -79.051)" style="fill:#2f2f2f"/>
+            <path data-name="Path 43186" d="m85.209 7.639.385.383.6.6a88.947 88.947 0 0 0 1.021-1.264 3.016 3.016 0 0 0 2.318-.443c1.273-.772 4.3-4.341 4.3-4.341l-.358-.358-3.3 3.3-.334-.334 3.3-3.3-.415-.415-3.3 3.3-.181-.181-.177-.186 3.3-3.3-.417-.408-3.3 3.3-.334-.334 3.3-3.3L91.259 0s-3.57 3.026-4.342 4.3a3.016 3.016 0 0 0-.443 2.318s-.494.389-1.265 1.022" transform="translate(-76.213)" style="fill:#2f2f2f"/>
+            <path data-name="Path 43187" d="m11 12.38-.762-.762c-1.9-1.888-7.4-7.338-7.982-7.909a.226.226 0 0 0-.128-.063C1.874 3.61 1.1 3.6 1.416 4.869c.375 1.511 3.745 6.671 6.312 7.19a5.046 5.046 0 0 1 .711.087 17.8 17.8 0 0 1 1.424 1.42s6.875 8.524 8.23 7.168C19.292 19.535 11 12.38 11 12.38" transform="translate(-1.2 -3.252)" style="fill:#2f2f2f"/>
+        </g>
+    </g>
+</svg>
